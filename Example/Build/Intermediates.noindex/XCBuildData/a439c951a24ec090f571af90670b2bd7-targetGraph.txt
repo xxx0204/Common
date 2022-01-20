@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+XXXCommonKit in Pods, no dependencies
+Pods-Example in Pods, depends on:
+XXXCommonKit in Pods (explicit)
+Example in Example, depends on:
+Pods-Example in Pods (implicit dependency via file 'Pods_Example.framework' in build phase 'Link Binary')
+XXXCommonKit in Pods (implicit dependency via options '-framework XXXCommonKit' in build setting 'OTHER_LDFLAGS')

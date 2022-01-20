@@ -1,0 +1,6 @@
+framework module XXXCommonKit {
+  umbrella header "XXXCommonKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
