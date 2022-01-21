@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "XXXCommonKit"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "A common kit for iOS"
 
   # This description is used to generate tags and improve search results.
@@ -53,9 +53,9 @@ Pod::Spec.new do |spec|
   #  profile URL.
   #
 
-  spec.author             = { "王旭" => "wangxuz@chanjet.com" }
+  spec.author             = { "王旭" => "wangxu_745839@163.com" }
   # Or just: spec.author    = "王旭"
-  # spec.authors            = { "王旭" => "wangxuz@chanjet.com" }
+  # spec.authors            = { "王旭" => "wangxu_745839@163.com" }
   spec.social_media_url   = "https://github.com/xxx0204"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
